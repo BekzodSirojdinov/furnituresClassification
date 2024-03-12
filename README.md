@@ -1,0 +1,2 @@
+# furnituresClassification
+Furniture Classification Model
